@@ -3,30 +3,21 @@ div{
     background-color: #65FEFE;
     width: 10%;
     top:8px;
-    
-}
-
-.d1{
-    position:static;
-
+    position:absolute;
 }
 
 #d1{
-    position:absolute;
     left: 125px; 
 }
 
 .d2{
-    position:absolute;
     left: 245px;  
 }
 
 #d2{
-    position:absolute;
     left: 365px;
 }
 
 .d3{
-    position:absolute;
     left: 485px;
 }
