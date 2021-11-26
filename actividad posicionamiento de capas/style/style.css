@@ -1,0 +1,32 @@
+div{
+    border: 2px purple solid;
+    background-color: #65FEFE;
+    width: 10%;
+    top:8px;
+    
+}
+
+.d1{
+    position:static;
+
+}
+
+#d1{
+    position:absolute;
+    left: 125px; 
+}
+
+.d2{
+    position:absolute;
+    left: 245px;  
+}
+
+#d2{
+    position:absolute;
+    left: 365px;
+}
+
+.d3{
+    position:absolute;
+    left: 485px;
+}
